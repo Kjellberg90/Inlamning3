@@ -1,0 +1,13 @@
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\bin\Debug\net6.0\Service.dll
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\bin\Debug\net6.0\ref\Service.dll
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.GlobalUsings.g.cs
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.dll
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\danie\Desktop\Inlamning3\SojasDanielKjellberg\Service\obj\Debug\net6.0\Service.pdb
